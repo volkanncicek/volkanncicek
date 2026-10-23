@@ -1,18 +1,20 @@
 ### Hi, I'm Volkan
 
-Senior Data Scientist & AI Engineer based in Istanbul. I work on Generative AI, LLMs, RAG systems, and MLOps — turning complex AI ideas into production-ready solutions.
+AI engineer and data scientist in Istanbul. At [Logo Yazılım](https://www.logo.com.tr/) I build production LLM systems (text-to-SQL, RAG, multi-agent pipelines) and own the infrastructure they run on: self-hosted GPU inference, Airflow ETL and MLOps. Currently doing an MSc in Artificial Intelligence.
 
-**[volkancicek.com](https://volkancicek.com/)** — blog, projects, CV
+[Blog](https://volkancicek.com/) · [CV](https://volkancicek.com/cv.pdf) · [LinkedIn](https://linkedin.com/in/volkanncicek) · [X](https://x.com/volkanncicek)
 
-#### What I'm into
+#### Highlights
 
-- Generative AI & LLM-based agents in production
-- MLOps: prototype → production pipelines, observability
-- AI-assisted software engineering
-- Real-world AIOps: time-series anomaly detection, forecasting
+| Project | What it is |
+|---|---|
+| [claude-code-workspaces](https://github.com/volkanncicek/claude-code-workspaces) [![PyPI](https://img.shields.io/pypi/v/claude-code-workspaces)](https://pypi.org/project/claude-code-workspaces/) | Save, restore and manage Claude Code sessions as named workspaces, from a TUI |
+| [litellm-supply-chain-audit](https://github.com/volkanncicek/litellm-supply-chain-audit) | Detects the compromised LiteLLM releases from the March 2026 supply-chain attack without importing the package |
+| [git-relay](https://github.com/volkanncicek/git-relay) | Two-way git sync for a server that cannot reach its remote, relayed through your workstation |
+| [alcatel-modem-api](https://github.com/volkanncicek/alcatel-modem-api) | Python library and CLI for Alcatel LTE modems: SMS, network status, device API |
+| [xiaomi-lightbar](https://github.com/volkanncicek/xiaomi-lightbar) | ESPHome component that drives the Xiaomi monitor light bar over an nRF24 radio |
 
-#### Find me
+#### Recent writing
 
-- [LinkedIn](https://linkedin.com/in/volkanncicek)
-- [Twitter](https://twitter.com/volkanncicek)
-- [Email](mailto:volkanciicek@gmail.com)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
