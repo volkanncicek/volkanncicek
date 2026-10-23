@@ -17,4 +17,9 @@ AI engineer and data scientist in Istanbul. At [Logo Yazılım](https://www.logo
 #### Recent writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Bir Agent Nerede Yaşar?](https://volkancicek.com/blog/agent-nerede-yasar)
+- [Elimizde Bir NVIDIA DGX Spark Var, Neler Yapabiliriz?](https://volkancicek.com/blog/dgx-spark-ekip-icin-inference-merkezi)
+- [Vibe Coding’in Çarptığı Duvar](https://volkancicek.com/blog/vibe-coding-in-carptigi-duvar)
+- [“Agent” Dediğinizde Ne Kastediyorsunuz?](https://volkancicek.com/blog/chatbot-mu-agent-mi)
+- [Vibe Coding’den Ajanlar Çağına: Paradigma mı Değişti, İsim mi?](https://volkancicek.com/blog/vibe-codingden-ajanlar-cagina)
 <!-- BLOG-POST-LIST:END -->
