@@ -1,8 +1,15 @@
 ### Hi, I'm Volkan
 
-AI engineer and data scientist in Istanbul. At [Logo Yazılım](https://www.logo.com.tr/) I build production LLM systems (text-to-SQL, RAG, multi-agent pipelines) and own the infrastructure they run on: self-hosted GPU inference, Airflow ETL and MLOps. Currently doing an MSc in Artificial Intelligence.
+Senior AI Engineer & Data Scientist based in Istanbul. I work on Generative AI, LLMs, RAG systems and MLOps, turning complex AI ideas into production-ready solutions. At [Logo Yazılım](https://www.logo.com.tr/) I build production LLM systems (text-to-SQL, RAG, multi-agent pipelines) and own the infrastructure they run on: self-hosted GPU inference, Airflow ETL and MLOps. Currently doing an MSc in Artificial Intelligence.
 
 [Blog](https://volkancicek.com/) · [CV](https://volkancicek.com/cv.pdf) · [LinkedIn](https://linkedin.com/in/volkanncicek) · [X](https://x.com/volkanncicek)
+
+#### What I'm into
+
+- Generative AI & LLM-based agents in production
+- MLOps: prototype → production pipelines, observability
+- AI-assisted software engineering
+- Real-world AIOps: time-series anomaly detection, forecasting
 
 #### Highlights
 
