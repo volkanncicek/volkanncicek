@@ -15,7 +15,7 @@ Senior AI Engineer & Data Scientist based in Istanbul. I work on Generative AI, 
 
 | Project | What it is |
 |---|---|
-| [claude-code-workspaces](https://github.com/volkanncicek/claude-code-workspaces) [![PyPI](https://img.shields.io/pypi/v/claude-code-workspaces)](https://pypi.org/project/claude-code-workspaces/) | Save, restore and manage Claude Code sessions as named workspaces, from a TUI |
+| [claude-code-workspaces](https://github.com/volkanncicek/claude-code-workspaces) · [PyPI](https://pypi.org/project/claude-code-workspaces/) | Save, restore and manage Claude Code sessions as named workspaces, from a TUI |
 | [litellm-supply-chain-audit](https://github.com/volkanncicek/litellm-supply-chain-audit) | Detects the compromised LiteLLM releases from the March 2026 supply-chain attack without importing the package |
 | [git-relay](https://github.com/volkanncicek/git-relay) | Two-way git sync for a server that cannot reach its remote, relayed through your workstation |
 | [xiaomi-lightbar](https://github.com/volkanncicek/xiaomi-lightbar) | ESPHome component that drives the Xiaomi monitor light bar over an nRF24 radio |
